@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/wicaksonoindra)
-### Hi there 👋, my name is Indra Wicaksono
+### Hi there 👋, I'm Indra Wicaksono
 I'm a Computer System student at Sriwijaya University
 
 I’m currently learning Computer Network and Cyber Security.. maybe🤣
