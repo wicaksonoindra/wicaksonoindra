@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Indra Wicaksono 👋
 
 ## I'm a Computer System student at Sriwijaya University
 
