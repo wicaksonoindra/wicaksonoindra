@@ -1,7 +1,10 @@
 ![Profile views](https://gpvc.arturio.dev/wicaksonoindra)
-### Hi there 👋, I'm Indra Wicaksono
-I'm a Computer System student at Sriwijaya University
+### Who Am I?
 
+Hello. I'm Indra, a computer & information security enthusiast,<br>
+Currently learning on security & computer science fields.
+These are some of the things I've made and done.
+And they'll probably come back to haunt me in a few years' time.
 
 ![Indra's GitHub stats](https://github-readme-stats.vercel.app/api?username=wicaksonoindra&show_icons=true&theme=radical)
 
